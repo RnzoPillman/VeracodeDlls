@@ -1,0 +1,10 @@
+#######como firmar dll
+
+http://jon-aleck-dev.blogspot.com/2012/01/firmar-una-libreria-con-nombre-seguro.html
+
+#####buscar la herramienta SN
+
+https://stackoverflow.com/questions/1535871/cannot-find-sn-exe-to-sign-assembly
+
+
+####saber el public token
